@@ -1,0 +1,12 @@
+;;; файл сценария сборки Visual LISP [V1.0] Drawobject saved to:[D:/obj] at:[12/5/20] 
+(PRV-DEF (:target . "Drawobject.VLX")
+	 (:active-x . T)
+	 (:separate-namespace . T)
+	 (:protected . T)
+	 (:load-file-list (:lsp "Source/drawobject.LSP"))
+	 (:require-file-list (:DCL "Source/mp_paral.DCL"))
+	 (:ob-directory)
+	 (:tmp-directory)
+	 (:optimization . lsa)
+)
+;; EOF
