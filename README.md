@@ -2,7 +2,7 @@
   Руководство пользователя
   --------------------------
 
-# Содержание {#содержание .TOC-Heading}
+# Содержание
 
 [1. Введение 3](#введение)
 
@@ -25,14 +25,6 @@
 [3.1 Минимальные системные требования и программное обеспечение
 необходимое для работы программы
 4](#минимальные-системные-требования-и-программное-обеспечение-необходимое-для-работы-программы)
-
-[Для работы с данной программой необходимо следующие минимальные
-системные требования:
-4](#для-работы-с-данной-программой-необходимо-следующие-минимальные-системные-требования)
-
-[Для работы с данной программой необходимо наличие следующего
-программного обеспечения:
-4](#для-работы-с-данной-программой-необходимо-наличие-следующего-программного-обеспечения)
 
 [3.2. Состав и содержание дистрибутивного носителя данных
 5](#состав-и-содержание-дистрибутивного-носителя-данных)
@@ -117,10 +109,7 @@
 +==================================+==================================+
 | **Операционная система**         | -   Microsoft® Windows® 10       |
 |                                  |     > (требуется [AutoCAD 2016   |
-|                                  |     > SP1)](http://knowledge.au  |
-|                                  | todesk.com/ru/support/autocad/do |
-|                                  | wnloads/caas/downloads/content/a |
-|                                  | utocad-2016-service-pack-1.html) |
+|                                  |     > SP1) ______________________|
 |                                  |                                  |
 |                                  | -   Microsoft Windows 8/8.1      |
 |                                  |                                  |
@@ -208,15 +197,14 @@
 
 2.  Нажмите кнопку Code, а затем Download ZIP.
 
-![](media/image1.png){width="5.76376968503937in" height="4.03125in"}
+![Кнопка Code и Download](https://i.imgur.com/J6pAtyP.png)
 
 3.  Разархивируйте архив, содержащий программу в любое удобное вам
     место. (Желательно избегать кириллицу в пути программы).
 
 4.  Откройте AutoCAD и перейдите к окну работы с чертежами.
 
-![https://sun9-27.userapi.com/impg/Hi_hoBZ220RcOcm7Afg0H-o_hNdjIVsTxC-gDQ/KxCUzKuzXO8.jpg?size=1280x685&quality=96&sign=f5bef03a4cafe3701ff81f387bcf837f](media/image2.jpeg){width="3.9965277777777777in"
-height="2.138174759405074in"}
+!(https://i.imgur.com/wvAC9Ka.jpeg)
 
 5.  Установите Lisp программу любым удобным способом
 
@@ -228,7 +216,7 @@ height="2.138174759405074in"}
 
 В случае появления диалогового окна выберите опцию "Всегда загружать".
 
-> ![https://sun9-43.userapi.com/impg/PDfHicnQCMfVXkGpO3K2-5Hw2DMf9XlXAiKQog/Loy6FS7fwuc.jpg?size=753x406&quality=96&proxy=1&sign=73c8db0ee99596db74992e8678488023](media/image3.jpeg){width="4.345278871391076in"
+> !(https://i.imgur.com/137mRDu.jpeg){width="4.345278871391076in"
 > height="2.3396227034120733in"}
 
 В случае возникновения ошибки: "Загрузка файла отменена", обратитесь к
@@ -241,12 +229,12 @@ height="2.138174759405074in"}
 
 1.  Набрать в командной строке AutoCAD "F_DRAWOBJECT" и нажать ENTER.
 
-> ![https://sun9-33.userapi.com/impg/1kOs_FXylGdN_zCSlr3Cdq_HVfWcXAbcLKyJCQ/fUpaEtLYYuQ.jpg?size=1227x150&quality=96&proxy=1&sign=20817ec4ea620a933c35f472c6bae60d](media/image4.jpeg){width="5.751244531933509in"
+> !(https://i.imgur.com/XEDOjGP.jpeg){width="5.751244531933509in"
 > height="0.7045352143482064in"}
 
 2.  Появится следующее диалоговое окно. Введите соответствующие значения
-    параметров из таблицы 1 для проверки работы программы.\
-    ![https://sun9-45.userapi.com/impg/J5DQCig8qFYn8IGEoP5WaAUkqpDPIr06299eWg/Bi5ap_cS8mc.jpg?size=924x673&quality=96&proxy=1&sign=0237040ad233ab9f50a69c6198ee60df](media/image5.jpeg){width="5.666001749781278in"
+    параметров из таблицы 1 для проверки работы программы.
+    !(https://i.imgur.com/9ItJ2YO.jpeg){width="5.666001749781278in"
     height="4.12761154855643in"}
 
 > Таблица 1. Размеры типовой детали.
@@ -269,7 +257,7 @@ height="2.138174759405074in"}
 
 3.  После ввода значений нажмите кнопку "Ок".
 
-> ![https://sun9-8.userapi.com/impg/K9DC7whRmvwUn1Y5eVbJbUK3UfC-fnzL9RpCIA/PctceN5XY5Y.jpg?size=354x609&quality=96&proxy=1&sign=253bae3f19819913c1b352492592a72f](media/image6.jpeg){width="1.8361515748031496in"
+> !(https://i.imgur.com/Q2v9ZeS.jpeg){width="1.8361515748031496in"
 > height="3.160378390201225in"}
 
 4.  Программа попросит указать вас базовую точку. Произвольно выберите
@@ -312,11 +300,11 @@ height="2.138174759405074in"}
 2.  Заполнить все поля в открывшемся диалоговом окне в соответствии с
     следующем рисунком:
 
-> ![](media/image7.jpeg){width="5.84375in" height="5.586805555555555in"}
+> !(https://i.imgur.com/KUW1EHX.jpeg){width="5.84375in" height="5.586805555555555in"}
 
 3.  Нажать "Ок".
 
-> ![https://sun9-8.userapi.com/impg/K9DC7whRmvwUn1Y5eVbJbUK3UfC-fnzL9RpCIA/PctceN5XY5Y.jpg?size=354x609&quality=96&proxy=1&sign=253bae3f19819913c1b352492592a72f](media/image6.jpeg){width="1.8361515748031496in"
+> !(https://i.imgur.com/Q2v9ZeS.jpeg){width="1.8361515748031496in"
 > height="3.160378390201225in"}
 
 4.  Выбирать точку вставки на чертёж (в программе она называется
@@ -324,10 +312,10 @@ height="2.138174759405074in"}
     выполнить программу. От этой точки будут произведены все построения.
     На рисунке выше соответствующая точка обозначена красным цветом.
 
-> ![https://sun9-68.userapi.com/impg/QoGndCfJ6H8UJKHT0wlGTsMn9G_TN6bgFBYx2w/w2kOvH5fK0U.jpg?size=1280x668&quality=96&sign=7864e80fad94917859a728ebcdb8350c](media/image8.jpeg){width="5.30784886264217in"
+> !(https://i.imgur.com/KEjqu0r.jpeg){width="5.30784886264217in"
 > height="2.768818897637795in"}
 >
-> ![https://sun9-66.userapi.com/impg/HxhOx2xeCDF8dBaqnV8XQp4ohN3kHSdXKKv-2g/Gg0slaM39HI.jpg?size=768x720&quality=96&proxy=1&sign=b2f37320d2d92a047dfb2f637aa8c746](media/image9.jpeg){width="5.339622703412074in"
+> !(https://i.imgur.com/ESJoza8.jpeg){width="5.339622703412074in"
 > height="5.005719597550306in"}
 
 5.  Чертёж готов и может быть редактирован любыми доступными
@@ -348,7 +336,7 @@ height="2.138174759405074in"}
 Описание: при загрузке программы появляется ошибка примерно следующего
 содержания:
 
-![https://sun9-59.userapi.com/impg/SXP_NitJqYiv0w9aDG6CNVwYh22UPyt0CeKXIQ/ZwL69KDJwfE.jpg?size=1123x150&quality=96&proxy=1&sign=0481b90506251d14cf429c13cd783cc1](media/image10.jpeg){width="6.496527777777778in"
+!(https://i.imgur.com/2YuYRcy.jpeg){width="6.496527777777778in"
 height="0.8652777777777778in"}
 
 Решение: Нажмите правой кнопкой мыши по полю чертежа. В контекстном меню
@@ -376,7 +364,7 @@ height="0.8652777777777778in"}
 
 # Приложение А
 
-![C:\\Users\\Master\\Documents\\kp\\scRt8SdoUHM.jpg](media/image11.jpeg){width="4.499133858267717in"
+!(https://i.imgur.com/ZJhBAw4.jpg){width="4.499133858267717in"
 height="5.953229440069991in"}
 
 Размеры изменяются в пределах 20% от указанных на рисунке выше.
